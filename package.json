@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matrix-org/matrix-js-sdk"
+    "url": "https://github.com/ryzzzin/matrix-js-sdk"
   },
   "keywords": [
     "matrix-org"
